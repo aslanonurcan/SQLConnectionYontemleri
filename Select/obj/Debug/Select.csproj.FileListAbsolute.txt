@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\UrunleriListele\Select\bin\Debug\Select.exe.config
+C:\Users\Section2\source\repos\UrunleriListele\Select\bin\Debug\Select.exe
+C:\Users\Section2\source\repos\UrunleriListele\Select\bin\Debug\Select.pdb
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.Form1.resources
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.exe
+C:\Users\Section2\source\repos\UrunleriListele\Select\obj\Debug\Select.pdb

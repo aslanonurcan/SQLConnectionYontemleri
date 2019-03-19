@@ -1,0 +1,11 @@
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\bin\Debug\UrunleriListele.exe.config
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\bin\Debug\UrunleriListele.exe
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\bin\Debug\UrunleriListele.pdb
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.Form1.resources
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.exe
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.pdb
+C:\Users\Section2\source\repos\UrunleriListele\UrunleriListele\obj\Debug\UrunleriListele.Kategori.resources

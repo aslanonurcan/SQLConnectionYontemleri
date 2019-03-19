@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\bin\Debug\Insert_Connected.exe.config
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\bin\Debug\Insert_Connected.exe
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\bin\Debug\Insert_Connected.pdb
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.Form1.resources
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.exe
+C:\Users\Section2\source\repos\UrunleriListele\Insert_Connected\obj\Debug\Insert_Connected.pdb

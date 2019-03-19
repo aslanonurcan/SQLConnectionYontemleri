@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\bin\Debug\Update-Delete.exe.config
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\bin\Debug\Update-Delete.exe
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\bin\Debug\Update-Delete.pdb
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update-Delete.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update_Delete.Form1.resources
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update_Delete.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update-Delete.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update-Delete.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update-Delete.exe
+C:\Users\Section2\source\repos\UrunleriListele\Update-Delete\obj\Debug\Update-Delete.pdb

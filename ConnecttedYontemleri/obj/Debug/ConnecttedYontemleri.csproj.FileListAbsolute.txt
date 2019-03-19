@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.Form1.resources
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\bin\Debug\ConnecttedYontemleri.exe.config
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\bin\Debug\ConnecttedYontemleri.exe
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\bin\Debug\ConnecttedYontemleri.pdb
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.exe
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.pdb
+C:\Users\Section2\source\repos\UrunleriListele\ConnecttedYontemleri\obj\Debug\ConnecttedYontemleri.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\bin\Debug\Disconnected1.exe.config
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\bin\Debug\Disconnected1.exe
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\bin\Debug\Disconnected1.pdb
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.Form1.resources
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.Properties.Resources.resources
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.exe
+C:\Users\Section2\source\repos\UrunleriListele\Disconnected1\obj\Debug\Disconnected1.pdb
